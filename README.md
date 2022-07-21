@@ -36,6 +36,14 @@
 <td align="center">3</td>
 <td><a href="https://github.com/devilsid82/Yandex_projects/tree/main/09_Story_telling">Как рассказать историю с помощью данных</a></td>
 <td align="center">Общепит</td>
-<td>Описание проекта</td>
+<td>Предобработка данных; лемматизация; исследовательский анализ; построение графиков с помощью <code>plotly</code></td>
 
 </tr>
+
+<tr>
+<td align="center">4</td>
+<td><a href="https://github.com/devilsid82/Yandex_projects/tree/main/12.SQL">SQL Проект</a></td>
+<td align="center">Интернет-магазин книг</td>
+<td>Подключение к базе данных; выполнение запросов для решения задач</td>
+
+</tr>    
