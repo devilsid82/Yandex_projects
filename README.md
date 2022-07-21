@@ -21,7 +21,7 @@
 <td align="center">1</td>
 <td><a href="https://github.com/devilsid82/Yandex_projects/blob/main/07_Business_performance_analysis">Анализ бизнес показателей</a></td>
 <td align="center">Приложение</td>
-<td>Предобработка и анализ данных; лемматизация; исследовательский анализ данных</td>
+<td>Анализ окупаемости рекламы развлекательного приложения; расчет LTV, ROI, удержания и конверсии c построением графиков</td>
 
 </tr>
 <tr>
